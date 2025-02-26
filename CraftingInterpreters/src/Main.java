@@ -6,6 +6,7 @@ public class Main {
 		
 		
 		System.out.println("This is the first commit of the project");
+		System.out.println("This is just a test");
 	}
 
 }
